@@ -1,3 +1,3 @@
 #! /bin/sh
-cd pipleline/source/publish
+cd pipeline/source/publish
 dotnet ConsoleApp.dll
